@@ -2,7 +2,7 @@
 
 Hay un problema bastante conocido que puede resolverse mediante técnicas de IA, este es el problema de las jarras de agua. Es tan famoso que hasta en la película La Jungla de cristal tienen que resolverlo para impedir que una bomba explote.
 
-## El problema
+## El problemaooooo
 
 Se tienen dos jarras, una con capacidad de 5 litros y otra con 3. Ninguna de ellas tiene marcas de medición. Tenemos un grifo que permite llenar las jarras de agua.
 
