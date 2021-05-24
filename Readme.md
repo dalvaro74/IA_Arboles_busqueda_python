@@ -1,4 +1,4 @@
-# Inteligencia Artificial. Problema jarras de agua resuelto en Python modificado por Dani 2
+# Inteligencia Artificial. Problema jarras de agua resuelto en Python modificado por Dani 3
 
 Hay un problema bastante conocido que puede resolverse mediante técnicas de IA, este es el problema de las jarras de agua. Es tan famoso que hasta en la película La Jungla de cristal tienen que resolverlo para impedir que una bomba explote.
 
